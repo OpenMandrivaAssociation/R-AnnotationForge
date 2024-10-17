@@ -7,7 +7,7 @@ Release:          1
 Summary:          Code for Building Annotation Database Packages
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
-URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/bioc/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
 
 Requires:         R-methods R-utils R-BiocGenerics R-Biobase R-AnnotationDbi R-org.Hs.eg.db 
